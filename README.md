@@ -8,3 +8,4 @@
 - after you're done, open sys prop `C:\Windows\System32\SystemPropertiesAdvanced.exe` and add the following paths to your environment
 - `C:\msys64\mingw64\bin`
 - `C:\msys64\`
+- `C:\msys64\usr\bin`
